@@ -32,4 +32,4 @@ No dependencies, simulator-ready.
    git clone git@github.com:sk1gl4a/LiqiudGlass-Button.git
    cd LiqiudGlass-Button
 
-2.	Open the .xcodeproj in Xcode 16+.
+2.	Open the .xcodeproj in Xcode 26+.
