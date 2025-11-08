@@ -11,10 +11,7 @@ No dependencies, simulator-ready.
 
 ## Features
 
-- **Liquid Glass on text label**: `glassEffect(.clear.interactive())` is applied directly to the `Text`.
-- **Circular shape**: simple `.frame(width: 220, height: 220)` + `.clipShape(Circle())` with a circular hit target via `.contentShape(Circle())`.
-- **Composable views**: background (`BackgroundView`), button (`GlassButton`), scene (`MainView`), app entry (`LGApp`).
-- Works on the **iOS Simulator**; no signing required.
+- **Liquid Glass on text label**: `glassEffect(.clear.interactive())` is applied directly to the `text`.
 
 ---
 
