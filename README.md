@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/iOS-26%2B-blue)](https://developer.apple.com/)
 [![Xcode](https://img.shields.io/badge/Xcode-26%2B-blue)](https://developer.apple.com/xcode/)
-[![Swift](https://img.shields.io/badge/Swift-5.x-orange?logo=swift)](https://swift.org)
+[![Swift](https://img.shields.io/badge/Swift-6.x-orange?logo=swift)](https://swift.org)
 
 A tiny SwiftUI sample showcasing a **Liquid Glass button** using Apple’s `glassEffect(.clear.interactive())`.  
 No dependencies, simulator-ready.
